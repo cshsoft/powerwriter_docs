@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+欢迎阅读PowerWriter的在线文档 !
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
